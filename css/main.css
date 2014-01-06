@@ -1,0 +1,101 @@
+body{
+	background-image: url('snow.png');
+	color: black;
+	background-color: white;
+	width: 100%;
+}
+
+a:link{
+	color: black;
+}
+
+a:visited{
+	color: black;
+}
+
+img{
+	padding: 0;
+	margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6{
+	padding: 0;
+	margin: 0;
+}
+
+#counter{
+	padding-top: 25px;
+	color: blue;
+	text-align: left;
+}
+
+#breaking{
+	font-size: 1.3em;
+	text-align: center;
+	padding: 50px 50px 25px 25px;
+	color: red;
+
+}
+
+#header{
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+#main{
+	margin-left: 100px;
+	text-align: center;
+}
+
+#left{
+	text-align: left;
+	float: left;
+	padding: 0px 50px 50px 50px;
+}
+
+#middle{
+	border-left: 2px solid gray;
+	border-right: 2px solid gray;
+	text-align: left;
+	float: left;
+	padding: 0px 50px 50px 50px;
+}
+
+#right{
+	text-align: left;
+	float: left;
+	padding: 0px 50px 50px 50px;
+}
+
+#break{
+	width: 100%;
+	clear: left;
+	padding: 25px;
+}
+
+#links_left{
+	float: left;
+	text-align: left;
+	padding: 0px 25px 25px 100px;
+	border-right: 2px solid gray;
+}
+
+#links_middle{
+	float: left;
+	text-align: left;
+	padding: 0px 25px 25px 50px;
+}
+
+#links_right{
+	border-left: 2px solid gray;
+	float: left;
+	text-align: left;
+	padding: 0px 25px 25px 25px;
+}
+
+#footer{
+	padding: 50px;
+	margin-top: 100px;
+	clear: left;
+	text-align: center;
+}
